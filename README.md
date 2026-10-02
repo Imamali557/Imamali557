@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Alí Nafie 👋
 
-<!--
-**Imamali557/Imamali557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-Stack junior. Estudio el CFGS de Desarrollo de Aplicaciones Web
+(bilingüe) en el IES El Lago y compagino los estudios con mi trabajo como Flight
+Dispatcher, en Madrid.
 
-Here are some ideas to get you started:
+Me interesa resolver problemas con software. Hablo español (nativo), inglés (C1)
+y árabe (B2).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- **Lenguajes:** Java, JavaScript, SQL
+- **Frontend:** HTML5, CSS3, diseño responsive
+- **Backend y bases de datos:** Spring Boot, API REST, JPA/Hibernate, MySQL
+- **Otros:** MVC, POO, UML, Git y GitHub, metodologías ágiles
+
+## Proyectos
+
+- [mi-primer-repo](https://github.com/Imamali557/mi-primer-repo): prácticas de Git y GitHub
+- Ejemplos de apps Android con Java y Android Studio (en desarrollo)
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/ali-nafie-62338327a/)
